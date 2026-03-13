@@ -1,0 +1,10 @@
+<botcomponent schemaname="cr1d1_agent_eHZ114.action.MicrosoftLearnDocsMCP-MicrosoftLearnDocsMCPServer">
+  <componenttype>9</componenttype>
+  <iscustomizable>0</iscustomizable>
+  <name>Microsoft Learn Docs MCP - Microsoft Learn Docs MCP Server</name>
+  <parentbotid>
+    <schemaname>cr1d1_agent_eHZ114</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>

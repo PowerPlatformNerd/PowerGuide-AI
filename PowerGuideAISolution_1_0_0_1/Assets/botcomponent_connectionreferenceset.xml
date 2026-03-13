@@ -1,0 +1,5 @@
+<botcomponent_connectionreferenceset>
+  <botcomponent_connectionreference botcomponentid.schemaname="cr1d1_agent_eHZ114.action.MicrosoftLearnDocsMCP-MicrosoftLearnDocsMCPServer" connectionreferenceid.connectionreferencelogicalname="cr1d1_agent_eHZ114.shared_microsoftlearndocsmcpserver.a1c339829d744f1e9a0896ee0555faea">
+    <iscustomizable>1</iscustomizable>
+  </botcomponent_connectionreference>
+</botcomponent_connectionreferenceset>
