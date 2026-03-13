@@ -160,18 +160,6 @@ The more context you provide, the more precise the guidance will be.
 
 ---
 
-## 🔮 Future Enhancements
-
-Potential future improvements for PowerGuide AI include:
-
-- Advanced **Power Platform architecture guidance**
-- Azure **solution architecture recommendations**
-- Integration with **official Microsoft documentation**
-- Governance frameworks for **enterprise environments**
-- Troubleshooting playbooks for **Microsoft services**
-
----
-
 ## 📄 License
 
 This project is intended for **educational, development, and productivity purposes**.
